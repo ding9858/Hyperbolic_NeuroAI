@@ -39,23 +39,19 @@ assert not missing, f"Missing input files: {missing}"
 print("Input paths verified.")
 ```
 
-The first notebook cells load the inputs, construct the acquisition scheme, normalize signals using the mean `b=0` signal, and display diagnostic output. **Refer to the notebook itself for the complete processing steps, model settings, and figures.** Do not upload restricted participant imaging data to GitHub.
+The first notebook cells load the inputs, construct the acquisition scheme, normalize signals using the mean `b=0` signal, and display diagnostic output. **Refer to the notebook itself for the complete processing steps, model settings, and figures.** 
 
 ## Environment
 
 - **Python:** 3.10.21 is recorded in the notebook metadata (kernel: `sbi_env`).
 - **Core dependencies:** `numpy`, `scipy`, `matplotlib`, `torch`, `sbi`, `dmipy`, `fslpy`, `tqdm`, and `jupyter`.
-- **Version reproducibility:** Exact versions of these third-party packages are not recorded in the three supplied source files. The older SBI APIs used here (including `SNPE_A` and `sbi.utils.user_input_checks`) may require a compatible `sbi` release. Verify imports and record the versions from a working environment rather than installing unverified latest releases.
 
-```bash
-python -m pip list --format=freeze > environment_versions.txt
-```
 
 The two Python scripts use command-line inputs for DWI image, mask, b-values, b-vectors, and output prefix. Review their `argparse` option declarations before running them directly; the supplied versions currently combine short and long option names into single strings.
 
 ## Outputs
 
-The notebook writes plots beneath `./output/figures/` and NIfTI parameter maps beneath `./output/brainslice/`. The SNPE-C script generates voxelwise ODI, ICVF, ISOVF, noise, and quality-control maps; the conventional script produces matching microstructure parameter maps and a fitting-time record. The original MRI data are not included here.
+The notebook writes plots beneath `./output/figures/` and NIfTI parameter maps beneath `./output/brainslice/`. The SNPE-C script generates voxelwise ODI, ICVF, ISOVF, noise, and quality-control maps; the conventional script produces matching microstructure parameter maps and a fitting-time record. 
 
 ## Project origin
 

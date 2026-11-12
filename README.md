@@ -4,9 +4,9 @@
 
 This repository brings together three complementary MRI-based computational investigations of geometric principles in biological and artificial neural systems:
 
-1. **Brain microstructure:** Simulation-based inference of diffusion MRI microstructural parameters and posterior uncertainty.
-2. **Artificial neural representations:** Curvature-controlled hyperbolic interventions in a pretrained physics-informed MRI latent diffusion model.
-3. **Structural connectomics:** Euclidean and hyperbolic embeddings of diffusion MRI-derived structural shortest-path distances at whole-brain and regional scales.
+1. **Microstructure inference:** Simulation-based inference of diffusion MRI microstructural parameters and posterior uncertainty.
+2. **Hyperbolic intervention:** Curvature-controlled hyperbolic interventions in a pretrained physics-informed MRI latent diffusion model.
+3. **Structural connectome:** Euclidean and hyperbolic embeddings of diffusion MRI-derived structural shortest-path distances at whole-brain and regional scales.
 
 The repository contains the analysis notebooks, supporting scripts, figure-generation workflows, and shareable source data associated with the manuscript.
 

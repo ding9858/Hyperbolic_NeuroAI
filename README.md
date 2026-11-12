@@ -38,6 +38,6 @@ Each experimental directory contains its own README, providing detailed informat
 - **Physics-informed latent diffusion for brain MRI synthesis:** https://github.com/sven-luepke/phy-ldm-mri
 - **Earlier multimodal MRI machine-learning collaboration:** https://github.com/sven-luepke/mlmi-project
 
-The present repository documents the additional analyses developed for this manuscript. Original implementations and contributions remain attributed to their respective projects and authors.
+The present repository documents the analyses developed for this manuscript. Original implementations and contributions remain attributed to respective projects and authors.
 
 

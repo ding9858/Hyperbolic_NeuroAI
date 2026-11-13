@@ -10,7 +10,7 @@ This directory contains the analysis code for **Experiment I** of *Multiscale an
 | `SBI_Pipeline_SNPE_C.py` | Standalone SNPE-C workflow for voxelwise posterior-mean maps and inference-failure diagnostics. |
 | `Conventional_Pipeline.py` | Conventional voxelwise NODDI–Watson fitting using Dmipy, including fitting runtime and microstructural output maps. |
 
-*If the uploaded filenames contain a suffix such as `(1)` or `(4)`, either retain those names in the links above or rename them consistently before use.*
+
 
 ## Input data and path check
 

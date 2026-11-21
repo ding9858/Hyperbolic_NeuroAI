@@ -1,5 +1,7 @@
 # Multiscale Analysis of Hyperbolic Geometry Across Neuroscience and Artificial Intelligence
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24415735.svg)](https://zenodo.org/records/24415735)
+
 **Code and supplementary analyses for the accompanying research manuscript.**
 
 This repository brings together three complementary MRI-based computational investigations of geometric principles in biological and artificial neural systems:

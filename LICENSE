@@ -1,0 +1,77 @@
+Research and Education Noncommercial License (Custom)
+Version 1.0 — 2026
+
+Copyright (c) 2026 Ding Zhou. All rights reserved except as expressly licensed below.
+
+1. Scope
+
+This license applies only to original software, source code, analysis notebooks,
+scripts, and documentation in the Hyperbolic_NeuroAI repository for which Ding
+Zhou holds the necessary rights. Third-party software, datasets, pretrained
+models, and other materials remain subject to their respective terms and are
+not relicensed by this document.
+
+2. Permitted Uses
+
+Subject to the conditions below, permission is granted, free of charge, to
+access, use, run, copy, study, modify, and share the covered materials, including
+modified versions, solely for noncommercial scientific research, academic
+reproducibility, and noncommercial education or teaching.
+
+Normal academic salaries, tuition, scholarships, and research grants do not, by
+themselves, make an otherwise permitted research or teaching activity commercial.
+Whether a use is permitted depends on its actual purpose and beneficiaries.
+
+3. Prohibited Uses
+
+Without prior written permission from the copyright holder, the covered
+materials, in whole or in part, must not be:
+
+(a) used to develop, provide, or support a commercial product or service;
+(b) sold, commercially licensed, or incorporated into software distributed
+    under terms permitting commercial exploitation;
+(c) used for paid consulting, commercial contract research, or research
+    carried out principally for a commercial entity's business advantage; or
+(d) otherwise used primarily for commercial advantage or monetary compensation.
+
+4. Redistribution and Attribution
+
+Any copy or modified version that is shared must retain this copyright notice,
+the full text of this license, and notices identifying applicable third-party
+rights. Modifications must be clearly identified. Recipients receive permission
+only within the noncommercial research and education scope stated above; no
+broader license may be granted on behalf of the copyright holder.
+
+If the software contributes to published research, users are requested to cite
+the accompanying CITATION.cff record. This citation request is separate from
+the mandatory preservation of copyright and license notices.
+
+5. Commercial Permission
+
+Any use outside the permitted scope requires a separate written license or
+permission from the relevant rights holder(s). Requests concerning Ding Zhou's
+original contributions may be made through the project repository:
+https://github.com/ding9858/Hyperbolic_NeuroAI
+
+6. No Additional Rights
+
+No patent, trademark, data-access, or other rights are granted by implication.
+This license does not override restrictions imposed by third-party rights holders
+or institutional data-use agreements.
+
+7. Termination
+
+Any rights granted under this license terminate automatically upon a violation
+of its conditions. Permission may be reinstated only by the copyright holder's
+written agreement, without affecting rights available under applicable law.
+
+8. Disclaimer of Warranty and Liability
+
+THE COVERED MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED
+BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE COVERED MATERIALS.
+
+This is a custom, source-available license, not the MIT License and not an
+Open Source Initiative-approved open-source license.

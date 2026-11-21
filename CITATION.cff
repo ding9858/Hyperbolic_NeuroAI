@@ -15,4 +15,4 @@ abstract: >-
 repository-code: "https://github.com/ding9858/Hyperbolic_NeuroAI"
 doi: "10.5281/zenodo.24415735"
 version: "1.0.0"
-license: MIT
+license-url: "https://github.com/ding9858/Hyperbolic_NeuroAI/blob/main/LICENSE"

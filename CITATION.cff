@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: >-
+  If you use the code in this repository, please cite this archived software
+  release. Please cite the associated research article separately once published.
+type: software
+title: "Multiscale Analysis of Hyperbolic Geometry Across Neuroscience and Artificial Intelligence"
+authors:
+  - family-names: Zhou
+    given-names: Ding
+abstract: >-
+  Research code and computational workflows accompanying a manuscript on
+  geometric principles across brain microstructure, curvature-controlled
+  interventions in MRI generative representations, and diffusion MRI-derived
+  structural connectomes.
+repository-code: "https://github.com/ding9858/Hyperbolic_NeuroAI"
+doi: "10.5281/zenodo.24415735"
+version: "1.0.0"
+license: MIT

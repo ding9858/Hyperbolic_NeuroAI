@@ -13,6 +13,6 @@ abstract: >-
   interventions in MRI generative representations, and diffusion MRI-derived
   structural connectomes.
 repository-code: "https://github.com/ding9858/Hyperbolic_NeuroAI"
-doi: "10.5281/zenodo.24415735"
-version: "1.0.0"
+doi: "10.5281/zenodo.24416077"
+version: "1.0.1"
 license-url: "https://github.com/ding9858/Hyperbolic_NeuroAI/blob/main/LICENSE"

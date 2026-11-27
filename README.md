@@ -2,7 +2,10 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24416077.svg)](https://doi.org/10.5281/zenodo.24416077)
 
-**Code and supplementary analyses for the accompanying research manuscript.**
+**Code, research data, and supplementary analyses for the accompanying research manuscript.**
+
+- **Research Code:** Archived software release and computational workflows — https://doi.org/10.5281/zenodo.24416077
+- **Research Data:** Supplementary data (Data S1–S3), original data source information, and a demonstration diffusion MRI dataset — https://doi.org/10.5281/zenodo.24579223
 
 This repository brings together three complementary MRI-based computational investigations of geometric principles in biological and artificial neural systems:
 

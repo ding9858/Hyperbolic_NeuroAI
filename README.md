@@ -1,6 +1,7 @@
 # Multiscale Analysis of Hyperbolic Geometry Across Neuroscience and Artificial Intelligence
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24416077.svg)](https://doi.org/10.5281/zenodo.24416077)
+[![Code DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24416077.svg)](https://doi.org/10.5281/zenodo.24416077)
+[![Data DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24579223.svg)](https://doi.org/10.5281/zenodo.24579223)
 
 **Code, research data, and supplementary analyses for the accompanying research manuscript.**
 
